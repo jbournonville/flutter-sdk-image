@@ -1,5 +1,5 @@
 IMAGE_TAG := $(IMAGE_TAG)
-IMAGE := mobiledevops/flutter-sdk-image
+IMAGE := growerp/flutter-sdk-image
 
 release: \
 	tag_image \
